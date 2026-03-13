@@ -1,8 +1,5 @@
 # Detecting-Fake-and-Real-Profile 
 
-Here is a **clean and professional README** you can use for your GitHub project, Shreya. Since GitHub uses **Markdown**, I’m writing it in **README.md format**.
-
----
 
 # Fake Profile Detection System
 
