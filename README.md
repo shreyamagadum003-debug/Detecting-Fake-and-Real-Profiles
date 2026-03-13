@@ -192,3 +192,4 @@ If you want, I can also give you **a much more impressive GitHub README with bad
 <img width="1882" height="826" alt="Image" src="https://github.com/user-attachments/assets/baf098c4-b845-43df-b78e-8fd2bbe4096f" />
 
 # output of Real Profile
+<img width="1894" height="908" alt="Image" src="https://github.com/user-attachments/assets/7ac601e5-b78a-42ea-9bdf-17f87d79bfe9" />
